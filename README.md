@@ -1,5 +1,5 @@
 # Basic OpenGL application
-The original version was provided by Kevin Harris. Manuel Menezes (oliveira@inf.ufrgs.br) provided a modified version. I converted it to used glutKeyboardFunc on linux.
+The original version was provided by Kevin Harris. Manuel Menezes (Informatics Institute - UFRGS) provided a modified version. I converted it to used glutKeyboardFunc on linux.
 
 # Dependencies
 
